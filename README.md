@@ -12,7 +12,7 @@ A Line bot based on a finite state machine.
 * python 3.6.7
 
 ## Finite State Machine
-![fsm](./img/show-fsm.png)
+![fsm](fsm.png)
 
 ## 使用方式
 一開始進入聊天時，機器人會處於 'user' state。
